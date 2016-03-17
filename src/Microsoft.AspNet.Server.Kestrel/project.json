@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0-rc1-final",
+  "version": "1.0.0-rc1-final-mcet",
   "description": "ASP.NET 5 cross platform development web server.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/aspnet/kestrelhttpserver"
+    "url": "git://github.com/mcetsolutions/KestrelHttpServer"	
   },
   "dependencies": {
     "Microsoft.AspNet.Hosting": "1.0.0-rc1-final",
